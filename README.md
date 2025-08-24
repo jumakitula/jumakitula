@@ -9,24 +9,12 @@
 
 ### 🌱 About Me & What I'm Doing
 
-* 🔭 I’m currently working on: **Housing Price Prediction in Mexico**
+
 * 🌱 I’m currently deep-diving into: **TensorFlow, PyTorch, Streamlit, Shiny, advanced regression & classification models, time-series analysis, Microsoft Azure.**
-* 👯 I’m looking to collaborate on: **Air Quality Analysis in Nairobi**
-* 🤝 I’m looking for help with: **Earthquake Damage Assessment in Nepal**
+* 👯 I’m looking to collaborate 
 * 📝 I regularly share insights and articles on: [My Medium Blog](https://medium.com/@JumaKitula)
 * 💬 Ask me about: **Python, R, pandas, scikit-learn, data visualization, AI in disaster management, air quality modeling.**
-* ⚡ Fun fact: **I think I am funny 😄**
 
----
-
-### 🚀 My Experience & Achievements
-
-* **Microsoft Learn Student Ambassador (2025 – Present):**
-    * Strategically managed and led 5+ in-person learning events and workshops on AI fundamentals and data science tools for over 30 university peers.
-    * Devised and executed marketing campaigns to promote the MLSA program, significantly increasing engagement and participation in online learning initiatives.
-    * Coordinated collaborations with university professors, demonstrating strong program management and community leadership.
-    * Mentored and assisted 20+ peers in navigating learning paths and understanding complex technical concepts.
-* **Genius Cup 1st Runner-Up (April 2019):** Achieved 1st Runner-Up in a highly competitive Mathematics Competition, demonstrating strong analytical and problem-solving skills.
 
 ---
 
